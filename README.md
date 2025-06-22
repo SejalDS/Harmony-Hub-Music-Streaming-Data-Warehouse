@@ -1,5 +1,5 @@
 # Define the README content
-readme_content = """
+
 # 🎵 Harmony Hub: Music Streaming Data Warehouse
 
 ## Project Overview
