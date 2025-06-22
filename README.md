@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Define the README content
 readme_content = """
 # 🎵 Harmony Hub: Music Streaming Data Warehouse
