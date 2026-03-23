@@ -1,5 +1,3 @@
-# Define the README content
-
 # 🎵 Harmony Hub: Music Streaming Data Warehouse
 
 ## Project Overview
